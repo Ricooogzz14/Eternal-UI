@@ -1,5 +1,4 @@
 local EternalUI = loadstring(game:HttpGet("PASTE_YOUR_ETERNALUI_MODULE_URL_HERE"))()
-  
 local Window = EternalUI.CreateWindow("My UI")
 
 local Tab = Window:AddTab("Main")
@@ -41,4 +40,3 @@ Window:SetTheme({
     Text = Color3.fromRGB(255, 255, 255),
     BackgroundGrid = Color3.fromRGB(6, 6, 6)
 })
-]])()
