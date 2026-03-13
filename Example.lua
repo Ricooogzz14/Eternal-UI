@@ -1,4 +1,5 @@
-local EternalUI = loadstring(game:HttpGet("PASTE_YOUR_ETERNALUI_MODULE_URL_HERE"))()
+local EternalUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ricooogzz14/Eternal-UI/refs/heads/main/UI.lua"))()
+
 local Window = EternalUI.CreateWindow("My UI")
 
 local Tab = Window:AddTab("Main")
