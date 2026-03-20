@@ -1,4 +1,4 @@
-local EternalUI = loadstring(game:HttpGet("YOUR_RAW_LINK_HERE"))()
+local EternalUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ricooogzz14/Eternal-UI/refs/heads/main/script.lua"))()
 
 EternalUI.SetTheme("Void")
 
